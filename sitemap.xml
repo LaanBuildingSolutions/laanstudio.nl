@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://laanstudio.nl/</loc></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://laanstudio.nl/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/</loc></url>
+<url><loc>https://laanstudio.nl/studio/</loc></url>
+<url><loc>https://laanstudio.nl/contact/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/loods-overspoor-nibbixwoud/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/de-hurk-eindhoven/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/zestien-bedrijfsunits-breda/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/medische-kliniek-velsen/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/opbouw-vrijstaande-villa/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/uitbreiding-woning/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/woning-zuid-scharwoude/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/dakopbouw-amstelveen/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/tuinkamer-arnhem/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/drie-gevels-bergen/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/glazen-kamer-haarlemmermeer/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/woning-amsterdam-zuid/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/woning-vijfhuizen/</loc></url>
+<url><loc>https://laanstudio.nl/projecten/woning-ijburg/</loc></url>
+</urlset>

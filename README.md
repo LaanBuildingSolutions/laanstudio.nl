@@ -1,6 +1,2 @@
 # laanstudio.nl
-
-Statische website van Laan Studio (Laan Building Solutions B.V.). Gehost op GitHub Pages; DNS bij One.com.
-
-- `index.html`: de site, alle beelden ingesloten.
-- `CNAME`: koppelt het eigen domein.
+Statische site, gehost via GitHub Pages. Gegenereerd met build_v3.py (Laan Building Solutions / Claude). Projecten staan in de data in dat script.
